@@ -5,7 +5,7 @@
 ---
 
 ## 📄 Currículo em PDF
-> 💡 **[Clique aqui para visualizar meu currículo completo em formato PDF]()**
+> 💡 **[Clique aqui para visualizar meu currículo completo em formato PDF](https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf)**
 
 ---
 
