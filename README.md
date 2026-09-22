@@ -1,11 +1,12 @@
 # Alan Brilhante Coutinho 
+
+**Desenvolvedor Full Stack | Engenharia de Software**
+
 <div>
   <a href="https://www.linkedin.com/in/alan-brilhante/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-**Desenvolvedor Full Stack | Engenharia de Software**
 
 📍 Brasília, DF, Brasil | ✉️ [alancoutinho.ti@gmail.com](mailto:alancoutinho.ti@gmail.com)<br>
 💼 **LinkedIn:** [linkedin.com/in/alanbrilhante](https://www.linkedin.com/in/alan-brilhante/)<br>
