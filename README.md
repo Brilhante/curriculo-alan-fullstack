@@ -1,4 +1,9 @@
-# Alan Brilhante Coutinho
+# Alan Brilhante Coutinho 
+<div>
+  <a href="https://www.linkedin.com/in/alan-brilhante/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 **Desenvolvedor Full Stack | Engenharia de Software**
 
