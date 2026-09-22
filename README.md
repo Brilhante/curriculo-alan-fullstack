@@ -1,68 +1,157 @@
 # Alan Brilhante Coutinho
-**Desenvolvedor Full Stack | Engenharia de Software**  
-📍 Brasília, DF, Brasil | ✉️ alancoutinho.ti@gmail.com
+
+**Desenvolvedor Full Stack | Engenharia de Software**
+
+📍 Brasília, DF, Brasil | ✉️ [alancoutinho.ti@gmail.com](mailto:alancoutinho.ti@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/alanbrilhante](SEU_LINKEDIN)
+🐙 **GitHub:** [github.com/Brilhante](https://github.com/Brilhante)
 
 ---
 
 ## 📄 Currículo em PDF
-> 💡 **[Clique aqui para visualizar meu currículo completo em formato PDF](https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf)**
+
+> 💡 **[Visualizar meu currículo completo em PDF](https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf)**
 
 ---
 
 ## 👨‍💻 Perfil Profissional
-Bacharel em Sistemas de Informação e Desenvolvedor Full Stack com sólida experiência na arquitetura, desenvolvimento e manutenção de sistemas corporativos de alta performance. Especialista no desenvolvimento de APIs modernas, arquitetura de microsserviços, mensageria e otimização de infraestruturas escaláveis. Grande interesse em engenharia de Inteligência Artificial aplicada e automação de processos baseada em dados.
+
+Bacharel em Sistemas de Informação e Desenvolvedor Full Stack com experiência em **desenvolvimento, arquitetura, evolução e manutenção de sistemas corporativos**, atuando tanto em sistemas legados quanto em projetos desenvolvidos do zero.
+
+Experiência no desenvolvimento de **APIs REST, microsserviços, aplicações web, mensageria, integrações entre sistemas e bancos de dados relacionais**, além de práticas de qualidade, observabilidade e CI/CD.
+
+Também possuo experiência com **IA generativa e LLMs aplicadas ao desenvolvimento de software**, utilizando essas tecnologias para automação, produtividade e apoio à engenharia de software.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-* **Front-End:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, MUI, jQuery, Bootstrap, Ajax, Axios.
-* **Back-End:** Node.js, NestJS, PHP, Laravel, Livewire, ZendFramework (Laminas), Codeigniter, REST APIs.
-* **Arquitetura & Mensageria:** Microsserviços, RabbitMQ, APIs Inteligentes (IA).
-* **Bancos de Dados & Storage:** PostgreSQL, SQL Server, MySQL, MongoDB, Firebase, MinIO.
-* **DevOps & Observabilidade:** Docker, Rancher, CI/CD (Bamboo), Elasticsearch, Kibana (ELK), SonarQube.
-* **Metodologias & Gestão:** Git/GitHub, GitFlow, Bitbucket, GitLab, Jira, Confluence, Scrum/Ágil.
+### Front-End
+
+React.js, Next.js, TypeScript, JavaScript, HTML, CSS, MUI, Bootstrap, jQuery, Ajax, Axios, Vite.
+
+### Back-End
+
+Node.js, NestJS, PHP, Laravel, Livewire, Zend Framework/Laminas, CodeIgniter, APIs REST.
+
+### Arquitetura e Integrações
+
+Microsserviços, arquitetura de APIs, RabbitMQ, mensageria, integrações entre sistemas, APIs de terceiros e IA/LLMs.
+
+### Bancos de Dados e Storage
+
+PostgreSQL, SQL Server, MySQL, MongoDB, Firebase, MinIO.
+
+### Qualidade e Testes
+
+Jest, PHPUnit, testes unitários, Code Review, SonarQube.
+
+### DevOps e Observabilidade
+
+Docker, Rancher, CI/CD, Bamboo, Elasticsearch, Kibana, ELK.
+
+### Ferramentas e Metodologias
+
+Git, GitHub, GitLab, Bitbucket, GitFlow, Jira, Confluence, Scrum e metodologias ágeis.
 
 ---
 
 ## 💼 Experiência Profissional
 
-### **G4f - Ministério das Relações Exteriores (Itamaraty)**
-*Desenvolvedor Full Stack* | **2023 - Atual** [1]
-* Evolução e manutenção de sistemas de alta demanda para embaixadas no exterior e divisões no Brasil.
-* Concepção e desenvolvimento do zero de novos sistemas corporativos.
-* Criação de microsserviço de e-mail (NestJS, Next.js, RabbitMQ) para desacoplamento de sistema legado.
-* Implementação de observabilidade com pilha ELK (Elasticsearch/Kibana) e análise de qualidade via SonarQube.
-* *Stack:* React, Next.js, NestJS, PHP (Zend), TypeScript, RabbitMQ, PostgreSQL, ELK, Bamboo CI/CD.
+### **G4F — Ministério das Relações Exteriores (Itamaraty)**
+
+**Desenvolvedor Full Stack | 2023 – Atual**
+
+* Desenvolvimento, evolução e manutenção de sistemas corporativos de alta demanda utilizados por unidades do Ministério no Brasil e postos no exterior.
+* Desenvolvimento de novos sistemas, desde a definição técnica e implementação até a disponibilização em produção.
+* Desenvolvimento de APIs e microsserviços utilizando Node.js/NestJS e TypeScript.
+* Criação de microsserviço de envio de e-mails utilizando **NestJS, RabbitMQ e Next.js**, desacoplando funcionalidades de sistemas legados.
+* Integração e utilização de **Elasticsearch e Kibana (ELK)** para observabilidade e análise de logs.
+* Aplicação de testes automatizados e acompanhamento de qualidade de código com **Jest, PHPUnit e SonarQube**.
+* Atuação em sistemas legados com foco em **manutenção segura, preservação de regras de negócio e evolução incremental**.
+
+**Stack:** React, Next.js, NestJS, PHP, Zend Framework/Laminas, TypeScript, RabbitMQ, PostgreSQL, Elasticsearch, Kibana, Docker, Rancher e Bamboo CI/CD.
+
+---
 
 ### **Iron Fence**
-*Desenvolvedor Full Stack* [1]
-* Engenharia de software aplicada a sistemas governamentais estratégicos de segurança pública.
-* Integração de soluções inteligentes e consumo de APIs de alta performance para dados sensíveis.
-* Incorporação de IA generativa e LLMs no fluxo de apoio ao desenvolvimento de software.
-* *Stack:* Node.js (NestJS), React, Next.js, TypeScript, PHP (Laravel, Livewire), PostgreSQL, Docker, ELK.
 
-### **Siscon / Única Consultoria e Engenharia - DNIT**
-*Desenvolvedor Full Stack* | **2021 - 2023** [1]
-* Atuação ponta a ponta: desde o levantamento de requisitos com stakeholders até o deploy em produção.
-* Engenharia reversa, refatoração de sistemas legados de grande porte e modelagem avançada de banco de dados.
-* *Stack:* PHP, JavaScript, jQuery, Ajax, Axios, SQL Server, MySQL, Bootstrap, Git.
+**Desenvolvedor Full Stack**
+
+* Desenvolvimento e manutenção de sistemas governamentais estratégicos.
+* Desenvolvimento de APIs e integrações utilizando Node.js/NestJS.
+* Desenvolvimento de aplicações web utilizando React, Next.js e TypeScript.
+* Atuação com sistemas legados em PHP/Laravel/Livewire.
+* Utilização de Docker e ferramentas de observabilidade.
+* Aplicação de **IA generativa e LLMs** como apoio ao desenvolvimento e automação de atividades de engenharia de software.
+
+**Stack:** Node.js, NestJS, React, Next.js, TypeScript, PHP, Laravel, Livewire, PostgreSQL, Docker e ELK.
+
+---
+
+### **Siscon / Única Consultoria e Engenharia — DNIT**
+
+**Desenvolvedor Full Stack | 2021 – 2023**
+
+* Atuação ponta a ponta no desenvolvimento de sistemas, desde o levantamento de requisitos até a disponibilização em produção.
+* Desenvolvimento e manutenção de aplicações web corporativas.
+* Engenharia reversa e manutenção de sistemas legados de grande porte.
+* Refatoração e evolução de código preservando regras de negócio existentes.
+* Modelagem e desenvolvimento de consultas e estruturas de banco de dados.
+* Integração entre sistemas e desenvolvimento de funcionalidades utilizando APIs.
+
+**Stack:** PHP, JavaScript, jQuery, Ajax, Axios, SQL Server, MySQL, Bootstrap e Git.
+
+---
 
 ### **TI Nexxmed**
-*Tecnólogo em Sistemas de Informação* | **2019 - 2021** [1]
-* Sustentação técnica, análise de bugs e refatoração de código para plataformas de atendimento médico.
+
+**Tecnólogo em Sistemas de Informação | 2019 – 2021**
+
+* Sustentação técnica de sistemas web.
+* Análise e correção de bugs.
+* Manutenção e refatoração de código.
+* Apoio na evolução das funcionalidades das plataformas.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-* **Pós-Graduação Lato Sensu em Desenvolvimento Web e Mobile Full Stack** – UFG (2024 - 2025).
-* **Bacharelado em Sistemas de Informação** – ESAB (2018 - 2021).
+* **Pós-Graduação Lato Sensu em Desenvolvimento Web e Mobile Full Stack** — Universidade Federal de Goiás (UFG) | **2024 – 2025**
+* **Bacharelado em Sistemas de Informação** — Escola Superior Aberta do Brasil (ESAB) | **2018 – 2021**
 
 ---
 
-## 📜 Certificações & Cursos Relevantes
-* **Inteligência Artificial:** Uso de IA generativa e LLMs no apoio à programação, análise de código e testes.
-* JavaScript Algorithms and Data Structures.
-* Introdução ao Git/GitHub e Comandos para Trabalho em Equipe (DIO).
-* Modelagem e Administração de Banco de Dados – Fundação Bradesco.
+## 📜 Certificações e Cursos
+
+* **JavaScript Algorithms and Data Structures** — freeCodeCamp
+  [🔗 Ver certificado](https://freecodecamp.org/certification/AlanCoutinho/javascript-algorithms-and-data-structures-v8)
+
+* **Terceiro Webinar #BORATRAMITAR** — 2 horas | 2024
+  [🔗 Ver certificado](https://www.even3.com.br/documentos/imprimir?i=18200340.87174491.6.8.82003408717449168&cc=3D619FFB-9CBA-41AD-BE4B-D2F6D68EEACE)
+
+* **Introdução ao Git e GitHub** — DIO
+
+* **Comandos Git para Trabalho em Equipe** — DIO
+
+* **Modelagem e Administração de Banco de Dados** — Fundação Bradesco
+
+
+---
+
+## 🚀 Atualmente estudando
+
+* Arquitetura de software e microsserviços
+* Engenharia de APIs e sistemas distribuídos
+* Inteligência Artificial aplicada ao desenvolvimento de software
+* LLMs e ferramentas de desenvolvimento assistido por IA
+* Boas práticas de testes automatizados e qualidade de código
+
+---
+
+## 📫 Contato
+
+💼 [LinkedIn](SEU_LINKEDIN)
+🐙 [GitHub](https://github.com/Brilhante)
+📄 [Currículo em PDF](https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf)
+✉️ [alancoutinho.ti@gmail.com](mailto:alancoutinho.ti@gmail.com)
