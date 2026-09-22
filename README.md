@@ -127,7 +127,7 @@ Git, GitHub, GitLab, Bitbucket, GitFlow, Jira, Confluence, Scrum e metodologias 
 * **JavaScript Algorithms and Data Structures** — freeCodeCamp
   [🔗 Ver certificado](https://freecodecamp.org/certification/AlanCoutinho/javascript-algorithms-and-data-structures-v8)
 
-* **Terceiro Webinar #BORATRAMITAR** — 2 horas | 2024
+* **Terceiro Webinar #BORATRAMITAR**
   [🔗 Ver certificado](https://www.even3.com.br/documentos/imprimir?i=18200340.87174491.6.8.82003408717449168&cc=3D619FFB-9CBA-41AD-BE4B-D2F6D68EEACE)
 
 * **Introdução ao Git e GitHub** — DIO
