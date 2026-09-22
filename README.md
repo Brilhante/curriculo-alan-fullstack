@@ -2,8 +2,8 @@
 
 **Desenvolvedor Full Stack | Engenharia de Software**
 
-📍 Brasília, DF, Brasil | ✉️ [alancoutinho.ti@gmail.com](mailto:alancoutinho.ti@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/alanbrilhante](SEU_LINKEDIN)
+📍 Brasília, DF, Brasil | ✉️ [alancoutinho.ti@gmail.com](mailto:alancoutinho.ti@gmail.com)<br>
+💼 **LinkedIn:** [linkedin.com/in/alanbrilhante](https://www.linkedin.com/in/alan-brilhante/)<br>
 🐙 **GitHub:** [github.com/Brilhante](https://github.com/Brilhante)
 
 ---
@@ -151,7 +151,7 @@ Git, GitHub, GitLab, Bitbucket, GitFlow, Jira, Confluence, Scrum e metodologias 
 
 ## 📫 Contato
 
-💼 [LinkedIn](SEU_LINKEDIN)
+💼 [LinkedIn](https://www.linkedin.com/in/alan-brilhante/)
 🐙 [GitHub](https://github.com/Brilhante)
 📄 [Currículo em PDF](https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf)
 ✉️ [alancoutinho.ti@gmail.com](mailto:alancoutinho.ti@gmail.com)
