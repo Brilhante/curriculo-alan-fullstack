@@ -161,7 +161,4 @@ Git, GitHub, GitLab, Bitbucket, GitFlow, Jira, Confluence, Scrum e metodologias 
 
 ## 📫 Contato
 
-💼 [LinkedIn](https://www.linkedin.com/in/alan-brilhante/)
-🐙 [GitHub](https://github.com/Brilhante)
-📄 [Currículo em PDF](https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf)
-✉️ [alancoutinho.ti@gmail.com](mailto:alancoutinho.ti@gmail.com)
+<div> <a href="https://www.linkedin.com/in/alan-brilhante/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Brilhante" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:alancoutinho.ti@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf" target="_blank"> <img src="https://img.shields.io/badge/Curr%C3%ADculo-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> </div>
