@@ -1,6 +1,6 @@
 # Alan Brilhante Coutinho
 
-**Desenvolvedor Full Stack | Engenharia de Software** 
+**Desenvolvedor Full Stack | Engenharia de Software** <br>
 📍 Brasília, DF, Brasil | ✉️ [alancoutinho.ti@gmail.com](mailto:alancoutinho.ti@gmail.com)<br>
 💼 **LinkedIn:** [linkedin.com/in/alanbrilhante](https://www.linkedin.com/in/alan-brilhante/)<br>
 🐙 **GitHub:** [github.com/Brilhante](https://github.com/Brilhante)
