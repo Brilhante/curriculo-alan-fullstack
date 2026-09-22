@@ -1,16 +1,24 @@
-# Alan Brilhante Coutinho 
+# Alan Brilhante Coutinho
 
 **Desenvolvedor Full Stack | Engenharia de Software**
+
+📍 Brasília, DF, Brasil
 
 <div>
   <a href="https://www.linkedin.com/in/alan-brilhante/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/Brilhante" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:alancoutinho.ti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </div>
 
-📍 Brasília, DF, Brasil | ✉️ [alancoutinho.ti@gmail.com](mailto:alancoutinho.ti@gmail.com)<br>
-💼 **LinkedIn:** [linkedin.com/in/alanbrilhante](https://www.linkedin.com/in/alan-brilhante/)<br>
-🐙 **GitHub:** [github.com/Brilhante](https://github.com/Brilhante)
 
 ---
 
@@ -31,6 +39,17 @@ Também possuo experiência com **IA generativa e LLMs aplicadas ao desenvolvime
 ---
 
 ## 🛠️ Habilidades Técnicas
+
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 ### Front-End
 
